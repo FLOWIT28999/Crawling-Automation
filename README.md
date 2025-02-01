@@ -1,7 +1,7 @@
 # 👋 Welcome to My Journey
 
 ## About Me
-안녕하세요! 저는 손현수입니다.
+안녕하세요! 저는 FLOWIT입니다.
 
 저는 **솔로프리너(Solopreneur)**로서 성장해 나가는 여정을 기록하고 있으며, **LLM(Large Language Models) 프롬프트 엔지니어링**을 연구하고 있습니다. 또한, AI 기술을 활용하여 다양한 프로젝트를 진행하며, 웹 에이전시 운영 및 여러 자동화 솔루션을 개발하고 있습니다.
 
