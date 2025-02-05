@@ -1,0 +1,8 @@
+2025-02-05 19:09:17,678 - __main__ - INFO - AI 자동 견적 시스템을 시작합니다.
+2025-02-05 19:11:27,208 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-05 19:11:27,228 - core.estimate_generator - INFO - 견적 생성 완료
+2025-02-05 19:12:16,449 - core.estimate_generator - INFO - 견적서가 저장되었습니다: estimates\estimate_20250205_191215.xlsx
+2025-02-05 19:20:33,301 - __main__ - INFO - AI 자동 견적 시스템을 시작합니다.
+2025-02-05 19:22:06,024 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-05 19:22:06,041 - core.estimate_generator - INFO - 견적 생성 완료
+2025-02-05 19:23:45,027 - core.estimate_generator - INFO - 견적서가 저장되었습니다: C:\Users\aneov\OneDrive\바탕 화면\ai_estimation\estimates\테스트.xlsx
