@@ -1,0 +1,23 @@
+2025-08-15 15:55:17,545 - root - INFO - 로그 파일: logs/riss_automation_20250815_155517.log
+2025-08-15 15:55:17,545 - root - INFO - GUI 모드로 시작합니다
+2025-08-15 15:56:02,721 - storage - INFO - 새 세션 생성: session_20250815_155602
+2025-08-15 15:56:02,722 - summarizer - INFO - Gemini API 초기화 완료
+2025-08-15 15:56:02,723 - backend - INFO - 브라우저 초기화 중...
+2025-08-15 15:56:03,760 - backend - ERROR - 논문 수집 중 오류: BrowserType.launch: Executable doesn't exist at /Users/sonny/Library/Caches/ms-playwright/chromium_headless_shell-1181/chrome-mac/headless_shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2025-08-15 15:56:03,760 - backend - INFO - 오류 발생: BrowserType.launch: Executable doesn't exist at /Users/sonny/Library/Caches/ms-playwright/chromium_headless_shell-1181/chrome-mac/headless_shell
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝

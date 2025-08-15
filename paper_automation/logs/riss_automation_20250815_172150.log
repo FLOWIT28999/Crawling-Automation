@@ -1,0 +1,19 @@
+2025-08-15 17:21:50,558 - root - INFO - 로그 파일: logs/riss_automation_20250815_172150.log
+2025-08-15 17:21:50,558 - root - INFO - GUI 모드로 시작합니다
+2025-08-15 17:22:14,342 - storage - INFO - 새 세션 생성: session_20250815_172214
+2025-08-15 17:22:14,350 - summarizer - INFO - Gemini API 초기화 완료
+2025-08-15 17:22:14,352 - backend - INFO - 브라우저 초기화 중...
+2025-08-15 17:22:14,888 - scraper - INFO - 브라우저 초기화 완료
+2025-08-15 17:22:14,889 - backend - INFO - 'ai' 검색 중...
+2025-08-15 17:22:27,944 - scraper - ERROR - 검색 중 오류 발생: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("text=국내학술논문") to be visible
+    24 × locator resolved to 4 elements. Proceeding with the first one: <a title="국내학술논문" href="/index.do#re_a_kor" onclick="javascript:getMainDetailSearchURL('re_a_kor');">국내학술논문</a>
+
+2025-08-15 17:22:28,009 - scraper - INFO - 브라우저 종료
+2025-08-15 17:22:28,009 - backend - INFO - 데이터 정제 중...
+2025-08-15 17:22:28,010 - backend - INFO - 데이터 저장 중...
+2025-08-15 17:22:28,012 - storage - INFO - 데이터 저장 완료: results/session_20250815_172214/papers_20250815_172228.json (0개 논문)
+2025-08-15 17:22:28,013 - backend - INFO - Excel 파일 생성 중...
+2025-08-15 17:22:28,013 - exporter - WARNING - 출력할 논문이 없습니다
+2025-08-15 17:22:28,016 - backend - INFO - 수집 완료! 총 0개 논문

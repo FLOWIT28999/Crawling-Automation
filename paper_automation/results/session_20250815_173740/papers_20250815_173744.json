@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "total_count": 3,
+    "collected_at": "2025-08-15T17:37:44.648866",
+    "session": "session_20250815_173740"
+  },
+  "papers": [
+    {
+      "title": "미디어 혁신을 위한 블록체인",
+      "link": "https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=35b0e0fe2df3bef37f7a54760bb41745&keyword=블록체인",
+      "authors": "박대민(Daemin PARK)",
+      "publication": "박대민(Daemin PARK) 한국언론정보학회 2018 한국언론정보학회 학술대회 Vol.2018 No.5",
+      "year": "2018",
+      "fulltext_onclick": "javascript:openFulltext('35b0e0fe2df3bef37f7a54760bb41745', '38dcf50504f9a1e8', 'bb44b591d3808efe', '03ada6d1a184da39', '03', '');",
+      "is_free": true
+    },
+    {
+      "title": "[ZOOM UP_한국남부발전] 블록체인 기반 REC 거래서비스 구축",
+      "link": "https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=6536b287a95fc2d77ecd42904f0c5d65&keyword=블록체인",
+      "authors": "배상훈",
+      "publication": "배상훈 전력문화사 2019 Electric Power Vol.13 No.2",
+      "year": "2019",
+      "fulltext_onclick": "javascript:openFulltext('6536b287a95fc2d77ecd42904f0c5d65', '38dcf50504f9a1e8', 'bb44b591d3808efe', '03ada6d1a184da39', '03', '');",
+      "is_free": true
+    },
+    {
+      "title": "블록체인 비교연구",
+      "link": "https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=2e6217478c1b258147de9c1710b0298d&keyword=블록체인",
+      "authors": "김지연(Kim, Ji Yeon)",
+      "publication": "김지연(Kim, Ji Yeon) 한국과학기술학회 2018 과학기술학연구 Vol.18 No.3",
+      "year": "2018",
+      "abstract_preview": "Bitcoin, which appeared in 2008, was merely a conceptual virtual currency, but it now enjoys the status as actual money. Bitcoin is an electronic money system that can be traded directly without a central trust institution. Thanks to the popularization of Bitcoin, blockchain technology has become a widespread concern. That technology is expanding not only the currency mechanism, but also a variety of other services. The possibility of a blockchain in relation to actual currency is ongoing. This paper investigates the technological characteristics and social construction of the blockchain by comparing the cases of Bitcoin, Namecoin, and MediBloc among blockchain applications. Namecoin emerged in 2013 is an attempt to replace the centralized Internet Domain Name System(DNS). There has been controversy over that current system for a long time, but replacing the already established system is not easy. Nevertheless, Namecoin has potential as an alternative. Meanwhile, MediBloc is an application that involves distributed management of medical data in South Korea. MediBloc claims that the key producers of medical data are patients themselves. This is to challenge to the question who is a knowledge producer of medical data. Through these three cases, it has discussed that blockchain technology does supports to form more democratic decision-making or simply provide a technical solution as automation. As a citizen, we can intervene in the realization of blockchains by presenting social agenda. This will be a method of the social construction of technology.",
+      "fulltext_onclick": "javascript:openFulltext('2e6217478c1b258147de9c1710b0298d', 'd07eaff4eea89e78', '122c54b23535d980', '9ca23ebaef20dc95', '10', '');",
+      "is_free": true
+    }
+  ]
+}

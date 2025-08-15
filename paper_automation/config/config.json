@@ -1,0 +1,29 @@
+{
+  "search_keywords": [
+    "ai 드론"
+  ],
+  "max_papers": 50,
+  "free_papers_only": true,
+  "gemini_api_key": "AIzaSyBE81FPlsnQBVCX_4qf2xmPb82hO32dijc",
+  "output_format": "excel",
+  "output_path": "./results",
+  "retry_attempts": 3,
+  "timeout": 30,
+  "free_paper_identifiers": {
+    "parameter_patterns": [
+      "bb44b591d3808efe",
+      "9ca23ebaef20dc95"
+    ],
+    "ui_labels": [
+      "무료",
+      "Free",
+      "Open Access",
+      "원문보기"
+    ]
+  },
+  "riss_settings": {
+    "base_url": "https://www.riss.kr",
+    "search_url": "https://www.riss.kr/search/Search.do",
+    "domestic_papers_filter": "국내학술논문"
+  }
+}
